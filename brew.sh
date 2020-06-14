@@ -8,7 +8,6 @@ xcode-select --install
 brew update && brew upgrade
 
 # Install Cask
-brew tap homebrew/cask-cask
 brew tap homebrew/cask-fonts
 
 # Install Essentials
