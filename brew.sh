@@ -45,4 +45,5 @@ brew cask install postman
 brew cask install docker
 brew cask install anaconda
 
-# Install anaconda manually
+# Anaconda Setup
+echo 'export PATH="/usr/local/anaconda3/bin:$PATH"' >> ~/.zshrc
