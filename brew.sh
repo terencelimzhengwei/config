@@ -23,7 +23,6 @@ brew cask install iterm2
 
 # Install Browsers
 brew cask install google-chrome
-brew cask install google-chrome-canary
 brew cask install brave-browser
 
 # Install Entertainment
