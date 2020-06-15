@@ -40,7 +40,6 @@ brew cask install rectangle
 
 # Install Dev Stuff
 brew cask install visual-studio-code
-brew cask install visual-studio-code-insiders
 brew cask install sublime-text
 brew cask install postman
 brew cask install docker
