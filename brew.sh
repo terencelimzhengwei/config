@@ -44,5 +44,6 @@ brew cask install visual-studio-code-insiders
 brew cask install sublime-text
 brew cask install postman
 brew cask install docker
+brew cask install anaconda
 
 # Install anaconda manually
