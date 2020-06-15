@@ -30,6 +30,7 @@ brew cask install vlc
 brew cask install transmission
 brew cask install slack
 brew cask install spotify
+brew cask install zoomus
 
 # Install Productivity
 brew cask install alfred
